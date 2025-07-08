@@ -33,7 +33,3 @@ A CycleGAN model is used to perform unpaired image-to-image translation between 
 - This model assumes paired training data.
 - Make sure your datasets are preprocessed and formatted correctly.
 
-## License
-
-[Add license information here if applicable.]
-
